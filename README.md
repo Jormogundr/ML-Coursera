@@ -4,5 +4,6 @@ These MATLAB project files are my worked solutions for a popular Coursera Machin
 
 Per the Coursera honor code policy, the files are password protected.
 
+I'm more than happy to discuss program details with anyone inquring about them, but will only show code to prospective employers.
 
 
